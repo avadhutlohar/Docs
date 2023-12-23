@@ -1,8 +1,18 @@
-# React + Vite
+# Docs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Implemented Docs clone
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**Link to project:** [https://docs6298.netlify.app/]
+
+![Screenshot](./public/ss.png)
+![Screenshot](./public/ss2.png)
+
+## How It's Made:
+
+**Tech used:** React, Tailwind, Framer Motion , React icons
+
+- Build front-end with React 
+- Build reusable function components
+- Styled components using Tailwind CSS
+- Used React Framer Motion to make components Dragable
